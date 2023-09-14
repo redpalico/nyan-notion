@@ -1,8 +1,8 @@
 import requests
 from datetime import datetime
 
-NOTION_API_TOKEN = "secret_8rfeigpLEnyRkEr5rYxNb6DPDRz5IjYl5EN9PIPk7XM"
-NOTION_DATABASE_ID = "3ca848f25b654368a0a170ac45ffe71f"
+NOTION_API_TOKEN = ""
+NOTION_DATABASE_ID = ""
 
 now = datetime.now()
 
